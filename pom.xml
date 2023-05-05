@@ -18,7 +18,7 @@
         <xray.username>admin</xray.username>
         <xray.password>123qwe</xray.password>-->
  
-        <xray.projectKey>CALC</xray.projectKey>
+        <xray.projectKey>PX</xray.projectKey>
         <!--
         <xray.testExecKey></xray.testExecKey>
         <xray.testPlanKey></xray.testPlanKey>
